@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kannan654
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m M.Sathis Kannan
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning python,Verilog
+- 💞️ I’m looking to collaborate on Veripy
+- 📫 How to reach me 6369409470
 
 <!---
 Kannan654/Kannan654 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
